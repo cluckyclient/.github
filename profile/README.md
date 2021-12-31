@@ -13,5 +13,6 @@ the handiest Minecraft client
 - capes
 - frame boost
 - voice chat
+- some quality of life changes
 
 and a lot more
