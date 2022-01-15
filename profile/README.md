@@ -10,7 +10,7 @@ the handiest Minecraft client
 - lots of mods and customizability
 - a server to client communication system
 - friends
-- capes
+- cosmetics
 - frame boost
 - voice chat
 - some quality of life changes
