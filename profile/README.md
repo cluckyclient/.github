@@ -8,9 +8,9 @@ the handiest Minecraft client
 
 ### features:
 - lots of mods and customizability
-- a server to client communication system
+- a server to client communication api
 - friends
-- cosmetics
+- capes
 - frame boost
 - some quality of life changes
 
