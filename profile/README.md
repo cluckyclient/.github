@@ -12,7 +12,6 @@ the handiest Minecraft client
 - friends
 - cosmetics
 - frame boost
-- voice chat
 - some quality of life changes
 
 and a lot more
