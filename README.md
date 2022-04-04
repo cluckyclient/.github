@@ -1,2 +1,1 @@
-# .github
-readme for home page and issue tracker
+### readme for home page and issue tracker
