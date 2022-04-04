@@ -13,5 +13,7 @@ the handiest Minecraft client
 - capes
 - frame boost
 - some quality of life changes
+- cross platform/version
+- a universal mod loader
 
 and a lot more
